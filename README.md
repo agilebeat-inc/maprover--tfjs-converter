@@ -1,6 +1,5 @@
 # maprover--tfjs-converter
 
-### Convert Keras/Tensorflow model to JSON format
-* The converted model files is used for tensorflowjs
+### Convert Keras/Tensorflow (.h5) model to JSON format
 * Open working directory in visual studio.
 * Open `convert_to_tfjs.py` to convert the model format 
